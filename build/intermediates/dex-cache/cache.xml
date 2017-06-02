@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/fc60ae0835d0103ca683df644c0c18da8417e603/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3318e3fd04bfa5b273becc0556f65d9a11f8a2c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/531696220f78f734b6ec13c7f22cdfd1d0517018/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c3285888bb59e5e368f6de5961242455816797c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/4Fire/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2d001666d87b9a3ecb7e6319ebbf78f2c06eb0cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/174f66178d854ad61cf98e70c35acb42e8116af9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd4ce54d4cfed59e93d6def3f37db6311a8fd659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/c58097973e0bb4d333610b95222a96014833c3b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a68c64e59fc71ca2cb00faa465040923b167bc76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/61f57aecc6a23ba05da5c900618fb2e3a819c722/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8e6b123876c67f34266e10d7bac9138a8616fe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_16cdba8f5d681647116f812a54e8dde1bf5038fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/4Fire/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="222e4b73336cb7eef7a9ddfc23d965d4e84f14fa">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ddf4e70a815dde193b87b24a0968f214d40e01f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/da4e44274d13483ddb409f83551f62f012d2fdc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69d19234e5a88d16d1c95205b4ecfd4c0ce9b4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/9457546d331082e71ee4bb025d980da2b9458827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ecb383f497b1ff3189766ed9a32700a9439d968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c5f81208d057c49547f685c9479428488f1447ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/3c1f74c88b1971391fe2dae60dfc4cbc055365d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb95298827d85a2d466cf9ae761c748c9483c205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/1c27b79e4519fccad4a4887de5f8e29cc6bab7e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7ec71721a1e1599c1c67087c66a146dc0699937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/47bb5690f509610b2ff7397ea2f4975dc0ae883a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_591cd8d490cf6d41f29f17782333e48afd9c7259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/906364c8aff9ddf7bb06895e61245778107d902b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ad3be6f67763f4f28f1dc400095f22457c52fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/8eb1f07dd94be12d81c2265f6c0a45050e7717e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f195df052505cecc30e09259ec8ef3b18430be78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/48e24cae4c4cf98d7d34c53c7d590946f74f947e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/rafael/4Fire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2183015ca61ccf7933a2182730e74c718cc3840d/classes.dex" />
+    </item>
+
+</items>

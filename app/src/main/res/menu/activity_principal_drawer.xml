@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sit_atual"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Situação atual" />
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Relatórios por e-mail" />
+        <item
+            android:id="@+id/risco_fogo"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Meteorologia e risco de fogo" />
+    </group>
+
+    <item
+        android:id="@+id/area_queimada"
+        android:title="Área de Queimada">
+        <menu>
+            <item
+                android:id="@+id/um_km"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Resolução - 1km" />
+            <item
+                android:id="@+id/trinta_m"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Resolução - 30m" />
+            <item
+                android:id="@+id/geral"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Resolução Geral" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/colaboradores"
+        android:title="Colaboradores">
+        <menu>
+            <item
+                android:id="@+id/inpe"
+                android:icon="@drawable/ic_menu_share"
+                android:title="IPNE - Programa de monitoramento de queimadas" />
+            <item
+                android:id="@+id/equipe_forOngs"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Equipe 4ONGs" />
+
+        </menu>
+    </item>
+
+
+</menu>
